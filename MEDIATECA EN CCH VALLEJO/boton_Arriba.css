@@ -1,0 +1,12 @@
+.texto {
+    padding: 30px;
+    font-size: 30px;
+}
+
+#botonArriba{
+    position: fixed;
+    bottom: 20px;
+    right: -100px;
+    width: 40px;
+    transition: all 1s;
+}

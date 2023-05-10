@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<HTML>
+<head>
+<title>Mediateca</title>
+
+<table align="center" width="80%" style="text-align:center">
+
+<tr>
+
+<td><img src="C:\Users\Usuario\Documents\MEDIATECA EN CCH VALLEJO\cch.png" width="80" height="80"></td>
+<td><font size="15">GUIA BASICA DE ASESORIAS EN MEDIATECA</font></td>
+<td><img src="C:\Users\Usuario\Documents\MEDIATECA EN CCH VALLEJO\vallejo.png" width="100" height="120"></td>
+
+</tr>
+
+</table>
+<hr width=100% size="3" color="black">
+<table align="center" width="80%" style="text-align:center; font-size:20;">
+
+<tr>
+
+<td>Menú</td>
+<td><a href="#">Como tomar una asesoria?</a></td>
+<td>Acerca de los asesores</td>
+<td>Teletamdem</td>
+<td>Mediateca en linea</td>
+
+</tr>
+
+</table>
+
+</head>
+
+<hr width=100% size="3" color="black">
+<body>
+
+<TABLE ALIGN=CENTER BORDER=0>
+
+<tr>
+
+<td><img src="C:\Users\Usuario\Documents\MEDIATECA EN CCH VALLEJO\unam.png" width=150 height=160></td>
+<td><h1><marquee><u>Hecho por y para estudiantes.</u></marquee></h1></td>
+
+</tr>
+
+</table>
+
+<center><img src="https://scontent.fpbc6-1.fna.fbcdn.net/v/t39.30808-6/240138659_367626041481072_8447586447771350573_n.png?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=V5WV8X0VrhkAX-HInC8&_nc_ht=scontent.fpbc6-1.fna&oh=00_AfDYo4Dmr9Ac9kXs9gw5BSQ7bQQRy1OPUWxpk_yzr49ZQg&oe=64085FCD" height="400"></center>
+<br>
+<font size="5">Hola a tod@s, bienvenid@s en esta seccion en el cual veremos, acerca de las asesorias que dan en mediateca, ya que muchos estamos aqui, por tarea, por puntos extra, por que les interesa, por que les caen chido a los asesores,etc.</font>
+<br>
+<font size="5">Pero para introducirnos veamos que es la mediateca.</font>
+
+<h1><center>¿Qué es la Mediateca?</center></h1>
+
+<font size="5"><center>La Mediateca es un centro de auto acceso que pone a tu disposición diferentes tipos de recursos (físicos y digitales) para aprender y practicar idiomas a tu propio ritmo y de acuerdo con tus necesidades, objetivos e intereses personales.</center><font>
+<font size="5"><center>Estara en servicio de lunes a viernes de 9:00 a 19:00 horas en el edificio MB planta alta por el lado izquierdo</center></font>
+
+<h2><center><div id="¿Como tomar una asesoria?">¿Como tomar una asesoria?</div></center></h2>
+
+</html>
